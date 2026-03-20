@@ -138,11 +138,11 @@ const siteData = {
 
   // ── CERTIFICATIONS ─────────────────────────────────────────
   certifications: [
-    "Google Analytics for Beginners",
-    "Fundamentals of Project Planning and Management",
-    "Großes Deutsches Sprachdiplom C2",
+    "Microsoft Certified: Power BI Data Analyst Associate",
+    "AWS Certified Cloud Practitioner",
+    "OKR Coach",
     "Professional Scrum Product Owner™ I (PSPO I)",
-    "Reasoning, Data Analysis, and Writing Specialisation",
+    "Professional Scrum Master™ I (PSM I)",
   ],
 
   // ── PROJECTS ───────────────────────────────────────────────
